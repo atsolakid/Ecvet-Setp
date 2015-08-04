@@ -1,0 +1,46 @@
+
+/* Styling voor Twitter Widget */
+
+
+
+body .timeline-header,
+body .timeline-footer {
+	background-color: #016295;
+}
+body .timeline-header {
+	border-radius: 3px 3px 0 0;
+}
+body .timeline-footer {
+	border-radius: 0 0 3px 3px;
+}
+html .timeline-header .summary, html .timeline-header .summary a:link, html .timeline-header .summary a:visited, html .p-author a.profile:hover {
+	color: #fff;
+}
+
+h2.byline {
+	display: none; /* Totdat de description van de lijst op twitter.com aanpasbaar is. */
+	color: #fff;
+}
+body .timeline .timeline-header h2.byline a:link,
+body .timeline .timeline-header h2.byline a:hover,
+body .timeline .timeline-header h2.byline a:active,
+body .timeline .timeline-header h2.byline a:visited {
+	color: #fff;
+}
+
+body .timeline {
+	background-color: #FFFFEE;
+}
+
+
+body .timeline a:link,
+body .timeline a:visited {
+	color: #016295;
+	text-decoration: none;
+}
+
+body .timeline a:active,
+body .timeline a:hover {
+	color: #478a57;
+	text-decoration: underline;
+}

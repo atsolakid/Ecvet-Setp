@@ -1,0 +1,29 @@
+﻿
+/* Twitter widget with styling */
+
+.timeline-header,
+.timeline-footer {
+	background-color: #8ba0aa;
+}
+
+#twitter-widget-0 .stream {
+	background-color: #9fb9c5;
+	color: #fff;
+}
+#twitter-widget-0 .stream a:link,
+#twitter-widget-0 .stream a:visited,
+#twitter-widget-0 .stream a:hover,
+#twitter-widget-0 .stream a:active {
+	color: #333333;
+}
+#twitter-widget-0 .customisable-border {
+	border-style: dotted;
+}
+#twitter-widget-0 h1.summary {
+	margin: 0;
+}
+#twitter-widget-0 .var-narrow .tweet {
+	padding: 0;
+}
+
+

@@ -1,0 +1,65 @@
+
+/* Stylesheet for Twitter Widget */
+
+
+.timeline-header,
+.timeline-footer {
+	background-color: #CD6715;
+}
+
+h2.byline {
+	display: none;
+}
+
+#twitter-widget-0 .stream {
+	background-color: #CD6715;
+	color: #fff;
+}
+#twitter-widget-0 .stream a:link,
+#twitter-widget-0 .stream a:visited {
+	color: #FD8725;
+}
+#twitter-widget-0 .stream a:hover,
+#twitter-widget-0 .stream a:active {
+	color: #fff;
+}
+
+.timeline .p-author .profile .p-name,
+#twitter-widget-0 .stream a:link,
+#twitter-widget-0 .stream a:visited,
+#twitter-widget-0 .stream a:hover,
+#twitter-widget-0 .stream a:active {
+	color: #fff;
+}
+html,
+html .p-author .profile .p-name,
+html .cards-base p,
+html .cards-base p a,
+html .timeline-header .summary,
+html .timeline-header .summary a:link,
+html .timeline-header .summary a:visited,
+html .p-author a.profile:hover
+html .p-name, .p-author a.profile:focus .p-name {
+	color: #fff;
+}
+#twitter-widget-0 .customisable-border {
+	border-style: dotted;
+}
+#twitter-widget-0 h1.summary {
+	margin: 0;
+}
+#twitter-widget-0 .var-narrow .tweet {
+	padding: 0;
+}
+a:link,
+a:visited {
+	/*color: #CD6715;*/
+	color: #FD8725;
+	text-decoration: none;
+}
+a:active,
+a:hover,
+a.hover {
+	color: #fff;
+	text-decoration: underline;
+}

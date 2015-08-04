@@ -1,0 +1,53 @@
+
+/* Stylesheet voor twitter widget */
+
+
+html .timeline {
+	background-color: transparent;
+	border: none 0;
+}
+
+.timeline-header {
+	display: none;
+	background-color: transparent;
+}
+.timeline-footer {
+	display: none;
+	background-color: transparent;
+}
+
+#twitter-widget-0 .stream {
+	background-color: transparent;
+	color: #fff;
+	overflow: hidden;
+}
+.timeline.var-narrow .tweet .header {
+	padding: 0 0 4px 0;
+}
+img.avatar {
+	display: none;
+}
+.timeline .p-author .profile .p-name,
+#twitter-widget-0 .stream a:link,
+#twitter-widget-0 .stream a:visited,
+#twitter-widget-0 .stream a:hover,
+#twitter-widget-0 .stream a:active {
+	color: #fff;
+}
+#twitter-widget-0 .customisable-border {
+	border: none 0;
+}
+#twitter-widget-0 h1.summary {
+	margin: 0;
+}
+#twitter-widget-0 .var-narrow .tweet {
+	padding: 0;
+}
+#tweets {
+	margin-left: -10px;
+}
+.var-narrow .tweet,
+#twitter-widget-0  .stream ol li .var-narrow .tweet,
+.tweet .h-entry .customisable-border {
+    padding: 4px 4px 6px;
+}

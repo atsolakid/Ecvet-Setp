@@ -1,0 +1,11 @@
+*sql
+.htaccess*
+wp-snapshots/
+_resources/
+_other/
+20140731_ecvetstep_53da338342c7a2879140731121603_archive.zip
+installer-log.txt
+tk.md
+wp-config.php
+wp-config-ecvet-step.php
+uploads.tgz

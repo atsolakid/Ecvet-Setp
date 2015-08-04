@@ -1,0 +1,42 @@
+# Twitter Widget with Styling.
+# Copyright (C) 2013 Marcel Pol
+# This file is distributed under the same license as the Custom Tax Order NE package.
+# Marcel Pol <marcel@timelord.nl>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-09 22:42+0100\n"
+"PO-Revision-Date: 2013-11-22 12:47+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: ../twitter-widget-with-styling.php:35
+msgid "Twitter Widget with Styling"
+msgstr "Twitter Widget sa Stilom"
+
+#: ../twitter-widget-with-styling.php:129
+msgid "Title"
+msgstr "Naslov"
+
+#: ../twitter-widget-with-styling.php:133
+msgid "Twitter Name"
+msgstr "Twitter Ime"
+
+#: ../twitter-widget-with-styling.php:137
+msgid "Twitter ID"
+msgstr "Twitter ID"
+
+#: ../twitter-widget-with-styling.php:141
+msgid "Height"
+msgstr "Visina"
+
+#: ../twitter-widget-with-styling.php:145
+msgid "Border Color"
+msgstr "Boja Okvira"
